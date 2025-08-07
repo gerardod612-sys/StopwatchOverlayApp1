@@ -1,1 +1,2 @@
-#!/bin/sh
+#!/bin/bash
+echo Running Gradle...
